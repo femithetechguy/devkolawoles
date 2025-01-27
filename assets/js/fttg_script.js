@@ -163,6 +163,6 @@ function initMap() {
       link.rel = 'icon';
       document.head.appendChild(link);
   }
-  link.href = 'https://drive.google.com/file/d/10jXcgSU4lqxBZG0pDioKq1fAoewvo1jv/view?usp=sharing';
+  link.href = 'assets/imgs/favicon.ico';
 })();
 // FavIcon Ends
