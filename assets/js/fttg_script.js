@@ -148,3 +148,21 @@ function initMap() {
       ]
     });
 }
+// Page Title Starts
+(function loadPageTitle() {
+  let pageTitle = "Tech Guy";
+  document.title = pageTitle;
+})();
+// Page Title Ends
+
+// FavIcon Starts
+(function loadfavIcon() {
+  var link = document.querySelector("link[rel~='icon']");
+  if (!link) {
+      link = document.createElement('link');
+      link.rel = 'icon';
+      document.head.appendChild(link);
+  }
+  link.href = 'https://drive.google.com/file/d/10jXcgSU4lqxBZG0pDioKq1fAoewvo1jv/view?usp=sharing';
+})();
+// FavIcon Ends
