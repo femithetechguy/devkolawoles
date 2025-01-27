@@ -195,7 +195,7 @@ function printFile(fileUrl) {
 // Print Resume Ends
 
 //Load Freelance Page Starts
-function loadFreelancePage(){
+(function loadFreelancePage(){
   console.log("loadFreelancePage");
   const url = "https://www.upwork.com/freelancers/~01df197d941a3c5a5f";
   console.log("url : " + url);
@@ -203,5 +203,5 @@ function loadFreelancePage(){
     window.open(url, '_blamk');
   });
   console.log(url + " >> opened in a new tab");
-}
+})();
 //Load Freelance Page Ends
