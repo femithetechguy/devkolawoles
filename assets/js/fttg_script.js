@@ -11,7 +11,6 @@
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
-
 // smooth scroll
 $(document).ready(function () {
   $(".navbar .nav-link").on('click', function (event) {
@@ -60,7 +59,7 @@ $(window).on("load", function () {
 function initMap() {
   // Styles a map in night mode.
   var map = new google.maps.Map(document.getElementById('map'), {
-    center: { lat: 40.674, lng: -73.945 },
+    center: { lat: 33.7501, lng: -84.3885 },
     zoom: 12,
     scrollwheel: false,
     navigationControl: false,
@@ -153,7 +152,7 @@ function initMap() {
   console.log("loadPageTitle");
   let pageTitle = "Tech Guy";
   document.title = pageTitle;
-  console.log("pageTitle "+ pageTitle );
+  console.log("pageTitle " + pageTitle);
 })();
 // Page Title Ends
 
@@ -167,7 +166,7 @@ function initMap() {
     document.head.appendChild(link);
   }
   link.href = 'assets/imgs/favicon.ico';
-  console.log("link.href "+ link.href );
+  console.log("link.href " + link.href);
 })();
 // FavIcon Ends
 // Print Resume Starts
@@ -177,20 +176,20 @@ function printPage() {
 }
 function printFile(fileUrl) {
   console.log("printFile");
-  console.log("fileUrl "+ fileUrl );
+  console.log("fileUrl " + fileUrl);
   //create iframe to load the file
   const iframe = document.createElement("iframe");
-    iframe.style.position = "absolute";
-    iframe.style.top = "-10000px"; // Hide the iframe
-    iframe.src = fileUrl; //set file URL
+  iframe.style.position = "absolute";
+  iframe.style.top = "-10000px"; // Hide the iframe
+  iframe.src = fileUrl; //set file URL
 
-    //Add iframe ot document
-    document.body.appendChild(iframe);
+  //Add iframe ot document
+  document.body.appendChild(iframe);
 
-    //Wait for the iframe to load before printing
-    iframe.onload = () => {
-      iframe.contentWindow.print();//Trigger the print dialog for the iframe content
-      document.body.removeChild(iframe);// Cleanup the iframe after printing
-    };
+  //Wait for the iframe to load before printing
+  iframe.onload = () => {
+    iframe.contentWindow.print();//Trigger the print dialog for the iframe content
+    document.body.removeChild(iframe);// Cleanup the iframe after printing
+  };
 }
 // Print Resume Ends
