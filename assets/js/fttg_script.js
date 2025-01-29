@@ -205,3 +205,9 @@ function printFile(fileUrl) {
   console.log(url + " >> opened in a new tab");
 })();
 //Load Freelance Page Ends
+
+function sendMessage(){
+  console.log("sendMessage:" );
+  location.reload();
+  console.log("loaction reloaded");
+}
