@@ -11555,6 +11555,9 @@ pre .code {
   .header {
     height: 500px;
     min-height: 500px;
+    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/femi_banner.jpg);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/femi_banner.jpg);
+    background-size: cover;
   }
   .header .social-icons {
     margin: auto;
