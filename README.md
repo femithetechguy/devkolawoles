@@ -32,4 +32,4 @@ For more details, see [GitHub Flavored Markdown](https://guides.github.com/featu
 
 ### Support or Contact
 
-_[Github](https://github.com/femithetechguy)_ || _[LinkedIn]([https://www.linkedin.com/in/aekolawole/](https://www.linkedin.com/in/femithetechguy/))_ || _[Twitter](https://twitter.com/folakol_tech)_ || _[Email](mailto:folakol.tech@gmail.com)_
+_[Github](https://github.com/femithetechguy)_ || _[LinkedIn](https://www.linkedin.com/in/femithetechguy/))_ || _[Twitter](https://twitter.com/folakol_tech)_ || _[Email](mailto:folakol.tech@gmail.com)_
