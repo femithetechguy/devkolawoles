@@ -1,0 +1,30 @@
+[
+  {
+    "id": "expertise-web-development",
+    "title": "Web Development",
+    "description": "Building responsive, user-friendly web applications using modern frameworks and best practices.",
+    "category": "expertise",
+    "iconClass": "bi-window"
+  },
+  {
+    "id": "expertise-backend-engineering",
+    "title": "Backend Engineering",
+    "description": "Designing scalable APIs, microservices, and server-side logic for robust application performance.",
+    "category": "expertise",
+    "iconClass": "bi-hdd-network"
+  },
+  {
+    "id": "expertise-cloud-solutions",
+    "title": "Cloud Solutions",
+    "description": "Deploying and managing applications on AWS, Azure, and other cloud platforms for reliability and scalability.",
+    "category": "expertise",
+    "iconClass": "bi-cloud"
+  },
+  {
+    "id": "expertise-automation",
+    "title": "Automation & DevOps",
+    "description": "Implementing CI/CD pipelines, automated testing, and infrastructure as code for efficient development workflows.",
+    "category": "expertise",
+    "iconClass": "bi-robot"
+  }
+]

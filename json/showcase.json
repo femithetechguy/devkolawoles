@@ -1,0 +1,50 @@
+[
+  {
+    "id": "project-fintech-platform",
+    "title": "Fintech Platform",
+    "description": "A scalable web application for digital payments, user authentication, and transaction analytics, built with React and Node.js.",
+    "iconClass": "bi-credit-card",
+    "link": "#project-details",
+    "category": "showcase"
+  },
+  {
+    "id": "project-healthcare-app",
+    "title": "Healthcare Appointment App",
+    "description": "A HIPAA-compliant scheduling and telemedicine platform for clinics, featuring real-time notifications and secure video calls.",
+    "iconClass": "bi-calendar-heart",
+    "link": "#project-details",
+    "category": "showcase"
+  },
+  {
+    "id": "project-retail-ecommerce",
+    "title": "Retail E-commerce Solution",
+    "description": "Full-featured e-commerce site with product catalog, shopping cart, payment integration, and admin dashboard.",
+    "iconClass": "bi-bag-check",
+    "link": "#project-details",
+    "category": "showcase"
+  },
+  {
+    "id": "project-saas-dashboard",
+    "title": "SaaS Analytics Dashboard",
+    "description": "Multi-tenant dashboard for SaaS platforms, providing user metrics, subscription management, and automated reporting.",
+    "iconClass": "bi-bar-chart-line",
+    "link": "#project-details",
+    "category": "showcase"
+  },
+  {
+    "id": "project-devops-pipeline",
+    "title": "DevOps CI/CD Pipeline",
+    "description": "Automated build, test, and deployment pipeline using Docker, GitHub Actions, and AWS for cloud-native applications.",
+    "iconClass": "bi-gear-wide-connected",
+    "link": "#project-details",
+    "category": "showcase"
+  },
+  {
+    "id": "project-collaboration-tool",
+    "title": "Team Collaboration Tool",
+    "description": "Real-time chat, file sharing, and project management app for distributed teams, built with WebSockets and serverless architecture.",
+    "iconClass": "bi-people",
+    "link": "#project-details",
+    "category": "showcase"
+  }
+]
