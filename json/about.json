@@ -1,0 +1,26 @@
+[
+  {
+    "id": "about-me-detailed",
+    "title": "Who I Am",
+    "description": "Experienced Software Engineer passionate about building scalable web applications, robust backend systems, and innovative digital solutions. With years of hands-on experience in full-stack development, I design and implement software that solves real-world problems and drives business growth. My expertise spans modern frameworks, cloud platforms, and agile methodologies. I thrive on architecting clean code, optimizing performance, and delivering solutions that exceed expectations.",
+    "category": "about"
+  },
+  {
+    "id": "personal-info-email",
+    "title": "Personal Info (Email)",
+    "description": "elijah@kolawoles.com",
+    "category": "about-contact"
+  },
+  {
+    "id": "vision-statement",
+    "title": "My Vision",
+    "description": "I believe that software is the engine of innovation in today's digital world. My goal is to help organizations unlock their potential through intuitive applications, scalable architectures, and reliable engineering that deliver real business value.",
+    "category": "about"
+  },
+  {
+    "id": "cta-section",
+    "title": "Ready to build something amazing? Let's connect!",
+    "description": "elijah@kolawoles.com",
+    "category": "about-cta"
+  }
+]

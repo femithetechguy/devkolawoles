@@ -1,0 +1,44 @@
+[
+  {
+    "id": "skill-fullstack-development",
+    "title": "Full-Stack Development",
+    "subtitle": "React, Node.js, Express, MongoDB",
+    "description": "Building scalable web applications from frontend to backend using modern JavaScript frameworks and databases.",
+    "category": "skillset"
+  },
+  {
+    "id": "skill-api-design",
+    "title": "API Design & Integration",
+    "subtitle": "REST, GraphQL, Microservices",
+    "description": "Designing robust APIs and integrating third-party services for seamless data exchange and automation.",
+    "category": "skillset"
+  },
+  {
+    "id": "skill-cloud-engineering",
+    "title": "Cloud Engineering",
+    "subtitle": "AWS, Azure, GCP, Serverless",
+    "description": "Deploying, scaling, and managing applications in the cloud for reliability and performance.",
+    "category": "skillset"
+  },
+  {
+    "id": "skill-devops",
+    "title": "DevOps & Automation",
+    "subtitle": "CI/CD, Docker, Infrastructure as Code",
+    "description": "Automating development workflows, deployments, and infrastructure management for efficient engineering.",
+    "category": "skillset"
+  },
+  {
+    "id": "skill-ux-ui-design",
+    "title": "UX/UI Design",
+    "subtitle": "Wireframing, Prototyping, Accessibility",
+    "description": "Designing intuitive user interfaces and experiences that delight users and drive engagement.",
+    "category": "skillset"
+  },
+  {
+    "id": "skill-project-management",
+    "title": "Project Management",
+    "subtitle": "Agile, Scrum, Stakeholder Communication",
+    "description": "Leading software projects from concept to delivery using agile methodologies and effective communication.",
+    "category": "skillset"
+  }
+]

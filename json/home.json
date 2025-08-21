@@ -1,0 +1,30 @@
+[
+  {
+    "id": "intro",
+    "title": "Elijah Kolawole: Software Engineer",
+    "description": "Building robust software solutions, scalable web applications, and innovative engineering projects for modern businesses.",
+    "category": "home"
+  },
+  {
+    "id": "services-summary",
+    "title": "Services",
+    "description": "Providing end-to-end software engineering solutions including web development, API design, cloud integration, and automation.",
+    "category": "home",
+    "iconClass": "bi-gear-fill"
+  },
+  {
+    "id": "expertise-summary",
+    "title": "My Expertise",
+    "description": "Specializing in full-stack development, scalable architectures, and modern engineering practices to deliver high-quality software.",
+    "category": "home",
+    "iconClass": "bi-stars"
+  },
+  {
+    "id": "featured-work",
+    "title": "Featured Projects",
+    "description": "Explore my portfolio of software engineering projects across industries including fintech, healthcare, retail, and SaaS.",
+    "category": "home-portfolio",
+    "iconClass": "bi-collection",
+    "link": "#showcase"
+  }
+]
