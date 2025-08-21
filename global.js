@@ -119,6 +119,10 @@ document.addEventListener('DOMContentLoaded', function() {
           </div>
         </div>
       </footer>
+        <a href="https://kolawoles.com" target="_blank" class="floating-home-icon" title="Go to kolawoles.com">
+          <a href="#" class="floating-home-icon" title="Go to top of page" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">
+            <i class="bi bi-house-door-fill" style="font-size:2rem;"></i>
+          </a>
     `;
   }
 
